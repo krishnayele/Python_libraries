@@ -5,3 +5,5 @@
 
 The following jupyter notebooks explain each function in the library and if you want to read docs 
 click [here](https://docs.scipy.org/doc/numpy/user/quickstart.html)
+
+* [] pending work : complete the practice of whole  library
